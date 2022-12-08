@@ -1,6 +1,6 @@
 <h3> Sobre mim </h3>
 
-- 😎 &nbsp; Em transição de carreira para desenvovimento front-end, tenho como meta para 2023 trabalhar como dev júnior
+- 😎 &nbsp; Em transição de carreira para desenvovimento front-end, trabalhar como dev júnior é minha meta para 2023
 - 👨🏻‍💻 &nbsp; Estudo de forma autodidata através dos cursos, B7Web, OneBitCode, React do Zero a Maestria
 - 🌱 &nbsp; No momento estou me aperfeiçoando para ser um excelente programador React
 - 🎓 &nbsp; Sou formatado em agronomia pela Universidade Federal de Lavras
@@ -10,17 +10,13 @@
 
 **Aplicações e Dados**
 
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-<br/>
+  ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Caique Santos Martins](https://img.shields.io/badge/-Caíque_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquemartinsdev/)](https://www.linkedin.com/in/caiquemartinsdev/)
-[![Gmail Badge](https://img.shields.io/badge/-caiquemartins.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquemartins.dev@gmail.com)](mailto:caiquemartins.dev@gmail.com)
-[![GitHub Caíque Martins]( https://img.shields.io/github/followers/caiquemartinsdev?label=follow&style=social)](https://github.com/caiquemartinsdev)
-
-(https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=mailto:caiquemartins.dev@gmail.com)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5535992672459?text=Ol%C3%A1%2C+vi+seu+GitHub+e+gostaria+de+conversar+com+voc%C3%AA...)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiquemartins.dev@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiquemartinsdev/)
