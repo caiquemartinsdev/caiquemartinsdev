@@ -16,8 +16,8 @@
 
 <br/>
 
-<a href="https://github.com/caiquemartinsdev">
+<!-- <a href="https://github.com/caiquemartinsdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquemartinsdev&theme=dracula&show_icons=true" />
 </a>
 
-<br/>
+<br/> -->
