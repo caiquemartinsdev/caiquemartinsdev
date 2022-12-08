@@ -18,6 +18,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Caique Santos Martins](https://img.shields.io/badge/-Caíque-Santos-Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquemartinsdev/)](https://www.linkedin.com/in/caiquemartinsdev/)
+[![Linkedin: Caique Santos Martins](https://img.shields.io/badge/-Caíque_Martins-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiquemartinsdev/)](https://www.linkedin.com/in/caiquemartinsdev/)
 [![Gmail Badge](https://img.shields.io/badge/-caiquemartins.dev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiquemartins.dev@gmail.com)](mailto:caiquemartins.dev@gmail.com)
 [![GitHub Caíque Martins]( https://img.shields.io/github/followers/caiquemartinsdev?label=follow&style=social)](https://github.com/caiquemartinsdev)
