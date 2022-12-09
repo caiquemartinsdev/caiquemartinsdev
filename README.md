@@ -1,6 +1,7 @@
 <h3> Sobre mim </h3>
 
-- 😎 &nbsp; Em transição de carreira para desenvovimento front-end, trabalhar como dev júnior é minha meta para 2023
+- 😎 &nbsp; Em transição de carreira para desenvovimento front-end
+- ✔️ &nbsp; Trabalhar como dev júnior é minha meta para 2023
 - 👨🏻‍💻 &nbsp; Estudo de forma autodidata através dos cursos, B7Web, OneBitCode, React do Zero a Maestria
 - 🌱 &nbsp; No momento estou me aperfeiçoando para ser um excelente programador React
 - 🎓 &nbsp; Sou formatado em agronomia pela Universidade Federal de Lavras
