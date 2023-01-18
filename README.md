@@ -2,7 +2,7 @@
 
 - 😎 &nbsp; Em transição de carreira para desenvovimento
 - ✔️ &nbsp; Trabalhar como dev júnior é minha meta para 2023
-- 👨🏻‍💻 &nbsp; Estudo de forma autodidata através dos cursos, B7Web, OneBitCode, React do Zero a Maestria
+- 👨🏻‍💻 &nbsp; Estudo de forma autodidata através de diversos cursos
 - 🌱 &nbsp; No momento estou me aperfeiçoando para ser um excelente programador
 - 🎓 &nbsp; Sou formatado em agronomia pela Universidade Federal de Lavras
 - 🚀 &nbsp; Trabalho a mais de 3 anos com marketing digital prestando serviço para empresas
